@@ -1,0 +1,212 @@
+[
+    {
+      "model": "attribute.color",
+      "pk": 1,
+      "fields": {
+          "color": "Red"
+      }
+    },
+    {
+      "model": "attribute.color",
+      "pk": 2,
+      "fields": {
+          "color": "Blue"
+      }
+    },
+    {
+      "model": "attribute.color",
+      "pk": 3,
+      "fields": {
+          "color": "Green"
+      }
+    },
+    {
+      "model": "attribute.color",
+      "pk": 4,
+      "fields": {
+          "color": "Yellow"
+      }
+    },
+    {
+      "model": "attribute.color",
+      "pk": 5,
+      "fields": {
+          "color": "Orange"
+      }
+    },
+    {
+      "model": "attribute.color",
+      "pk": 6,
+      "fields": {
+          "color": "Purple"
+      }
+    },
+    {
+      "model": "attribute.color",
+      "pk": 7,
+      "fields": {
+          "color": "Pink"
+      }
+    },
+    {
+      "model": "attribute.color",
+      "pk": 8,
+      "fields": {
+          "color": "Brown"
+      }
+    },
+    {
+      "model": "attribute.color",
+      "pk": 9,
+      "fields": {
+          "color": "Black"
+      }
+    },
+    {
+      "model": "attribute.color",
+      "pk": 10,
+      "fields": {
+          "color": "White"
+      }
+    },
+    {
+      "model": "attribute.color",
+      "pk": 11,
+      "fields": {
+          "color": "Gray"
+      }
+    },
+    {
+      "model": "attribute.color",
+      "pk": 12,
+      "fields": {
+          "color": "Teal"
+      }
+    },
+    {
+      "model": "attribute.color",
+      "pk": 13,
+      "fields": {
+          "color": "Magenta"
+      }
+    },
+    {
+      "model": "attribute.color",
+      "pk": 14,
+      "fields": {
+          "color": "Turquoise"
+      }
+    },
+    {
+      "model": "attribute.color",
+      "pk": 15,
+      "fields": {
+          "color": "Lavender"
+      }
+    },
+    {
+      "model": "attribute.color",
+      "pk": 16,
+      "fields": {
+          "color": "Navy"
+      }
+    },
+    {
+      "model": "attribute.color",
+      "pk": 17,
+      "fields": {
+          "color": "Olive"
+      }
+    },
+    {
+      "model": "attribute.color",
+      "pk": 18,
+      "fields": {
+          "color": "Slate"
+      }
+    },
+    {
+      "model": "attribute.color",
+      "pk": 19,
+      "fields": {
+          "color": "Charcoal"
+      }
+    },
+    {
+      "model": "attribute.color",
+      "pk": 20,
+      "fields": {
+          "color": "Camel"
+      }
+    },
+    {
+      "model": "attribute.color",
+      "pk": 21,
+      "fields": {
+          "color": "Burgundy"
+      }
+    },
+    {
+      "model": "attribute.color",
+      "pk": 22,
+      "fields": {
+          "color": "Indigo"
+      }
+    },
+    {
+      "model": "attribute.color",
+      "pk": 23,
+      "fields": {
+          "color": "Khaki"
+      }
+    },
+    {
+      "model": "attribute.color",
+      "pk": 24,
+      "fields": {
+          "color": "Beige"
+      }
+    },
+    {
+      "model": "attribute.color",
+      "pk": 25,
+      "fields": {
+          "color": "Plum"
+      }
+    },
+    {
+      "model": "attribute.color",
+      "pk": 26,
+      "fields": {
+          "color": "Steel"
+      }
+    },
+    {
+      "model": "attribute.color",
+      "pk": 27,
+      "fields": {
+          "color": "Moss"
+      }
+    },
+    {
+      "model": "attribute.color",
+      "pk": 28,
+      "fields": {
+          "color": "Rust"
+      }
+    },
+    {
+      "model": "attribute.color",
+      "pk": 29,
+      "fields": {
+          "color": "Mustard"
+      }
+    },
+    {
+      "model": "attribute.color",
+      "pk": 30,
+      "fields": {
+          "color": "Crimson"
+      }
+    }   
+  ]

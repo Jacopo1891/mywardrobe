@@ -1,0 +1,7 @@
+su - postgres
+psql -c "CREATE DATABASE mywardrobe;"
+psql -c "CREATE USER mywardrobe WITH PASSWORD 'password';"
+psql -d mywardrobe -c "CREATE SCHEMA mywardrobeschema AUTHORIZATION mywardrobe;"
+psql -c "ALTER ROLE mywardrobe SET client_encoding TO 'utf8';"
+psql -c "ALTER ROLE mywardrobe SET default_transaction_isolation TO 'read committed';"
+psql -c "ALTER ROLE mywardrobe SET timezone TO 'UTC';"

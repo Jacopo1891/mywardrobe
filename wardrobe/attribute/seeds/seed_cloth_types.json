@@ -1,0 +1,51 @@
+[
+    {
+      "model": "attribute.clothtype",
+      "pk": 1,
+      "fields": {
+        "cloth_type": "Sweatshirt"
+      }
+    },
+    {
+      "model": "attribute.clothtype",
+      "pk": 2,
+      "fields": {
+        "cloth_type": "Sweater"
+      }
+    },
+    {
+      "model": "attribute.clothtype",
+      "pk": 3,
+      "fields": {
+        "cloth_type": "Pants"
+      }
+    },
+    {
+      "model": "attribute.clothtype",
+      "pk": 4,
+      "fields": {
+        "cloth_type": "Jeans"
+      }
+    },
+    {
+      "model": "attribute.clothtype",
+      "pk": 5,
+      "fields": {
+        "cloth_type": "Jacket"
+      }
+    },
+    {
+      "model": "attribute.clothtype",
+      "pk": 6,
+      "fields": {
+        "cloth_type": "Classic Pants"
+      }
+    },
+    {
+      "model": "attribute.clothtype",
+      "pk": 7,
+      "fields": {
+        "cloth_type": "Shirt"
+      }
+    }
+]  

@@ -1,0 +1,30 @@
+[
+    {
+      "model": "attribute.season",
+      "pk": 1,
+      "fields": {
+          "season": "Winter"
+      }
+    },
+    {
+      "model": "attribute.season",
+      "pk": 2,
+      "fields": {
+          "season": "Spring"
+      }
+    },
+    {
+      "model": "attribute.season",
+      "pk": 3,
+      "fields": {
+          "season": "Summer"
+      }
+    },
+    {
+      "model": "attribute.season",
+      "pk": 4,
+      "fields": {
+          "season": "Autumn"
+      }
+    }    
+  ]
